@@ -10,6 +10,10 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/baselibrary" />
+            <option value="$PROJECT_DIR$/message_foundation" />
+            <option value="$PROJECT_DIR$/personal_center" />
+            <option value="$PROJECT_DIR$/products" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

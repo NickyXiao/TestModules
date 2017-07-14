@@ -3,6 +3,8 @@ package example.senble.china.com.testmodules;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import org.greenrobot.eventbus.EventBus;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -10,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //测试修改2
+
     }
 }
